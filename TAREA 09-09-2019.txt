@@ -1,0 +1,161 @@
+TAREA TRAER INVESTIGACIÓN PARA PRABAJAR EL 10-09-2019
+
+ - VERBOS REFLEXIVOS
+   En verbo reflexivo es aquel que se refiere a una acción de un sujeto sobre sí mismo, como 
+  el verbo bañarse, peinarse, lavarse, acostarse o levantarse. Muchos de los verbos reflexivos 
+  tienen relación con las rutinas de la vida diaria. Todos estos verbos tienen en común que acaban 
+  con el pronombre se, el cual indica que la acción verbal recae sobre la propia persona y, por lo 
+  tanto, por este motivo se denominan verbos reflexivos.
+
+
+  * Ejemplos de oraciones con verbos reflexivos
+  El pronombre se al final del verbo nos indica que se trata de un verbo reflexivo. Sin embargo, en 
+  una oración el pronombre se lo podemos encontrar de manera independiente, como por ejemplo en las 
+  oraciones "María se levanta" o "Luis se ducha". Además del pronombre se, los verbos reflexivos pueden 
+  ir acompañados de otros pronombres, como por ejemplo en las oraciones "Me afeito cada día" o "nos 
+  despertamos siempre muy temprano".
+
+  Los verbos reflexivos tienen esta condición por la acción de los pronombres reflexivos. Así, a modo de 
+  ejemplo las siguientes oraciones pueden ilustrar esta idea: "Yo me lavo", "tú te peinas", "él se baña", 
+  "nosotros nos duchamos", "ustedes se afeitan" y "ellas se maquillan". Lo más habitual es que los pronombres 
+  reflexivos se encuentren antes del verbo, pero no siempre es así. De hecho, el pronombre reflexivo se puede 
+  anexar a un infinitivo o a un gerundio precedido del verbo estar ("Voy a lavarme el pelo" o "Estoy arreglándome 
+  el bigote").
+
+  La posición de los pronombres es flexible (por ejemplo, en la oración "lávate ahora" el pronombre va al final 
+  del verbo pero en "no te peines" el pronombre precede al verbo).
+  
+
+  * Casos especiales de verbos reflexivos
+  Algunos verbos no son estrictamente reflexivos, sino que indican un cambio de estado. Algunos ejemplos de estos 
+  verbos "reflexivos" son los siguientes: enojarse, preocuparse, deprimirse, atreverse, reírse, entristecerse o 
+  enterarse. En este sentido, si digo "Isabel se puso triste" o "mi amigo se hizo militar" estoy comunicando un 
+  cambio de estado en relación al sujeto, para lo cual el verbo se convierte en reflexivo.
+
+
+  * Los verbos recíprocos
+
+  Los verbos recíprocos se parecen a los reflexivos, ya que ambos utilizan los mismos pronombres. No obstante, un  
+  verbo es reflexivo cuando la acción afecta al propio sujeto y un verbo es recíproco cuando hay una acción que de 
+  manera simultánea se realiza por dos sujetos. Por ejemplo, en las siguientes oraciones podemos observar que 
+  aparecen los pronombres expresando una acción recíproca: "ellos se amaban intensamente", "los dos amigos se enfadaron" 
+  o "Eva y Luis se miraron a los ojos".
+ 
+
+
+
+
+
+ - PRESENTE SIMPLE DE INDICATIVO
+
+  El presente de indicativo en español se utiliza en los siguientes casos:
+
+  – Para expresar acciones que tienen lugar en el momento en el que se habla
+
+          Ejemplo: El cocinero prepara la comida.
+
+  – Para expresar acciones que se repiten con frecuencia
+
+          Ejemplo: Yo desayuno todos los días.
+
+  – Para expresar acciones que sucedieron en el pasado y en las que se pretende expresar dichas acciones con mayor 
+    fuerza o intensidad
+
+          Ejemplo: Cristóbal Colón descubre América en 1492.
+
+  – Para expresar expresiones que sucederán en el futuro
+
+          Ejemplo: Mañana vuelven mis primos de Alemania.
+
+ * Verbos regulares
+ En la construcción de este tiempo verbal con verbos regulares podemos observar que la raíz (parte invariable del verbo) se mantiene, modificándose solamente la terminación:
+
+-AR
+cantar	-ER
+comer	-IR
+vivir
+(yo)	cant-o	com-o	viv-o
+(tú)	cant-as	com-es	viv-es
+(él, ella, usted)	cant-a	com-e	viv-e
+(nosotros/as)	cant-amos	com-emos	viv-imos
+(vosotros/as)	cant-áis	com-éis	viv-ís
+(ellos, ellas, ustedes)	cant-an	com-en	viv-en
+
+
+ * Verbos irregulares
+ – Nos encontramos con un grupo de verbos con irregularidades vocálicas en los que en algunos casos se forman 
+diptongos (proceso llamado diptongación) y en otros se produce un cambio vocálico. Este cambio se produce en todas las 
+formas a excepción de la 1ª y 2ª persona del plural:
+
+(e ->ie)	(o ->ue)	(u ->ue)	(e ->i)	(u ->uy)
+QUERER	PODER	JUGAR	PEDIR	CONCLUIR
+quiero	puedo	juego	pido	concluyo
+quieres	puedes	juegas	pides	concluyes
+quiere	puede	juega	pide	concluye
+queremos	podemos	jugamos	pedimos	concluimos
+queréis	podeís	jugáis	pedís	concluís
+quieren	pueden	juegan	piden	concluyen
+
+ – Nos encontramos tres casos de irregularidad en la primera persona del singular:
+     Caso de la «Y». Ejemplo: Estar -> Estoy
+     Caso de la «G». Ejemplo: Hacer -> Hago
+     Caso de la «ZCO». Ejemplo: Conducir -> Conduzco
+
+
+
+
+
+
+FUTURO PERIFRASTICO
+Introducción
+El futuro próximo se forma con las formas personales del verbo ir + la preposición a seguida del infinitivo del verbo principal. Se trata de una perífrasis verbal que permite expresar en presente un enunciado con sentido de futuro. Esta construcción se utiliza a menudo en español en lugar del futuro simple en la lengua hablada para expresar una acción planeada o algo que ocurrirá con prontitud.
+
+En este apartado aprenderás a identificar las situaciones en las que puede emplearse en español el futuro próximo. En la sección de ejercicios puedes poner a prueba todo lo que has aprendido.
+
+Ejemplo
+
+¡Qué desastre de oficina! Ahora mismo voy a ordenar todos los clasificadores y las carpetas y le voy a pedir ayuda a mi compañero de trabajo.
+
+Además, a partir del mes que viene voy a tener más trabajo que nunca, así que prometo que de ahora en adelante voy a ser más ordenado.
+
+
+Uso
+El futuro próximo se emplea en español para:
+
+expresar enunciados en presente que denotan una acción que ocurrirá en un futuro muy cerano;
+Ejemplo:
+Ahora voy a ordenar los clasificadores y las carpetas.
+Le voy a pedir ayuda a mi compañero de trabajo...
+expresar escenarios futuros;
+Ejemplo:
+A partir del mes que viene voy a tener mucho más trabajo.
+reflejar una intención.
+Ejemplo:
+Prometo que de ahora en adelante voy a ser más ordenado.
+En esta construcción, el verbo ir pierde su significado literal para indicar solo la intención del hablante de hacer algo en un momento próximo al momento del habla. El significado de la acción verbal reace enteramente en el que exprese el verbo en infinitivo.
+
+Conjugación
+Para conjugar el futuro próximo en español hay que tomar las formas personales del verbo ir + la preposición a + el infinitivo del verbo principal.
+
+Elige la forma correcta de ir.
+
+El martes los alumnos       a ir de excursión a Toledo.
+Cuando te recuperes de tu lesión      a entrenar todos los días.
+Creo que     a estudiar todos los días.
+¿Sabes si tu hermana y tú      a asistir al concierto?
+Lorena y yo      a comer algo antes de ir a la cama.
+
+Conjuga los verbos en futuro próximo con el verbo auxiliar en presente.
+
+El piso (estar) 
+ disponible a partir del 1 de marzo.
+Los trabajadores (convocar) 
+ una huelga.
+Ahora mismo (yo/hacer) 
+ la maleta.
+¿Cuándo (tú/limpiar) 
+ el polvo de tu habitación?
+Mañana (nosotros/vender) 
+ todos los trastos en el mercadillo.
+
+
